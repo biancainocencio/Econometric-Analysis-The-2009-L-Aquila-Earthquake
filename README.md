@@ -1,4 +1,3 @@
-````markdown
 # 🌍 Econometric Impact Analysis: The 2009 L'Aquila Earthquake
 
 This project investigates the **causal effects of the 2009 Abruzzo earthquake** in Italy, with a particular focus on labor market outcomes, household income, and GDP. We apply a combination of econometric techniques—including **Difference-in-Differences (DiD)** and **Synthetic Control Method (SCM)**—to assess the socioeconomic aftermath of the natural disaster.
@@ -127,6 +126,5 @@ This project was conducted as part of an advanced econometrics coursework. If yo
 * [GitHub](https://github.com/biancainocencio)
 * 📩 Email: [contactbiancainocencio@gmail.com](mailto:contactbiancainocencio@gmail.com)
 
-```
 
 ---
